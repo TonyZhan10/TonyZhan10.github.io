@@ -25,7 +25,7 @@ Contact: **WeChat: `_Marsquakes`**
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉 OmniAlpha has been accepted to ACM Multimedia 2026 (ACM MM 2026)!
+- *2026.08*: &nbsp;🎉 **OmniAlpha has been accepted to ACM Multimedia 2026 (ACM MM 2026)!**
 - *2026.04*: &nbsp;OmniAlpha was substantially revised with multi-task reinforcement learning for transparency-aware generation.
 - *2025.11*: &nbsp;OmniAlpha was released with open-source code and model weights.
 - *2025.07*: &nbsp;AlphaVAE was released with open-source code, data, and models.
