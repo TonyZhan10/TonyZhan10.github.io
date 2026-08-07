@@ -87,6 +87,13 @@
 
 }
 
+.paper-box--text-only {
+    .paper-box-text {
+        max-width: 100%;
+        padding-left: 0;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
