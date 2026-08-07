@@ -31,6 +31,7 @@ jobs:
         run: pip install -r google_scholar_crawler/requirements.txt
 
       - name: Fetch Google Scholar citations
+        timeout-minutes: 8
         working-directory: google_scholar_crawler
         env:
           GOOGLE_SCHOLAR_ID: jGxsEcoAAAAJ
