@@ -8,9 +8,9 @@
 # Site Settings
 title                    : "Jiabo Zhan"
 description              : "Tsinghua University. Research interests: computer vision, multimodal large language models, AIGC, and RGBA image generation."
-repository               : "TonyZhan10/tonyzhan.github.io"
+repository               : "TonyZhan10/TonyZhan10.github.io"
 url                      : "https://tonyzhan10.github.io"
-baseurl                  : "/tonyzhan.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
