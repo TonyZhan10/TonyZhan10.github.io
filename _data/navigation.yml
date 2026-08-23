@@ -4,7 +4,35 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Experience"
+    url: "/#experience"
+
+  - title: "Honors"
+    url: "/#honors"
+
+main_zh:
+  - title: "关于我"
+    url: "/zh/#about-me"
+
+  - title: "动态"
+    url: "/zh/#news"
+
+  - title: "论文"
+    url: "/zh/#publications"
+
+  - title: "教育背景"
+    url: "/zh/#education"
+
+  - title: "经历"
+    url: "/zh/#experience"
+
+  - title: "荣誉"
+    url: "/zh/#honors"

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiabo Zhan"
-description              : "Tsinghua University. Research interests: computer vision, multimodal large language models, AIGC, and RGBA image generation."
+description              : "Computer vision, multimodal large language models, reinforcement learning, generative AI, and document intelligence."
 repository               : "TonyZhan10/TonyZhan10.github.io"
 url                      : "https://tonyzhan10.github.io"
 baseurl                  : ""
@@ -25,12 +25,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiabo Zhan"
   avatar           : "images/jiabo-zhan.jpg"
-  bio              : "CV · MLLM · AIGC"
+  bio              : "CV · MLLM · RL · AIGC"
+  bio_zh           : "计算机视觉 · 多模态大模型 · 强化学习 · 生成式 AI"
   location         : "Beijing, China"
+  location_zh      : "中国，北京"
   employer         : "Tsinghua University"
+  employer_zh      : "清华大学"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jGxsEcoAAAAJ"
-  email            :
+  email            : "jiabozhan0618@gmail.com"
   wechat           : "_Marsquakes"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
