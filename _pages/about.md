@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jiabo Zhan (詹佳博)**, an incoming M.Eng. student in Computer Technology at the **Tsinghua Shenzhen International Graduate School**, advised by Prof. Chun Yuan. I received my B.E. in Software Engineering from **Beihang University** in 2026, graduating **2nd out of 172 students (top 1.2%)** with a GPA of **3.873/4.0**.
+I am **Jiabo Zhan (詹佳博)**, an incoming M.Eng. student in Computer Technology at **Tsinghua University, Shenzhen International Graduate School**, advised by Prof. Chun Yuan. I received my B.E. in Software Engineering from **Beihang University** in 2026, graduating **2nd out of 172 students (top 1.2%)** with a GPA of **3.873/4.0**.
 
 My research interests include **computer vision**, **multimodal large language models (MLLMs)**, **reinforcement learning**, **AI-generated content (AIGC)**, and **document intelligence**. My recent work focuses on transparent and layered RGBA generation, efficient document parsing, multimodal data construction, and evaluation.
 
@@ -94,7 +94,7 @@ Zile Wang, Hao Yu, **Jiabo Zhan**, Chun Yuan
 
 <div class="cv-item">
   <div class="cv-item__header">
-    <div class="cv-item__title">Tsinghua Shenzhen International Graduate School</div>
+    <div class="cv-item__title">Tsinghua University, Shenzhen International Graduate School</div>
     <div class="cv-item__date">Sep. 2026 – Jun. 2028 (expected)</div>
   </div>
   <div class="cv-item__meta">M.Eng. in Computer Technology · Advisor: Prof. Chun Yuan</div>
@@ -117,8 +117,8 @@ Zile Wang, Hao Yu, **Jiabo Zhan**, Chun Yuan
 <div class="cv-item" markdown="1">
 
 <div class="cv-item__header">
-  <div class="cv-item__title">VFlow AI Video Generation · Tsinghua SIGS</div>
-  <div class="cv-item__date">Dec. 2025 – Present</div>
+  <div class="cv-item__title">VFlow AI Video Generation · Tsinghua University, Shenzhen International Graduate School</div>
+  <div class="cv-item__date">Dec. 2025 – Jun. 2026</div>
 </div>
 <div class="cv-item__meta">Algorithm Intern · Industry project led by Prof. Chun Yuan</div>
 
@@ -147,7 +147,6 @@ Zile Wang, Hao Yu, **Jiabo Zhan**, Chun Yuan
 - **National Scholarship**, 2022–2023 and 2023–2024 academic years.
 - **Outstanding Student** at Beihang University for three consecutive academic years; **Outstanding Communist Youth League Member**.
 - **Samsung Scholarship**, 2024–2025; **First Prize in Beijing**, Chinese Mathematics Competitions for College Students.
-- **Third Prize**, 35th Beihang Fengru Cup main track, for an intelligent pancreatic diagnostic system built with SAMUS, Electron, and Python.
 
 <span class='anchor' id='skills'></span>
 

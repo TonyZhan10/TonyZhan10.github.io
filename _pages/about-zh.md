@@ -115,7 +115,7 @@ Zile Wang, Hao Yu, **Jiabo Zhan**, Chun Yuan
 
 <div class="cv-item__header">
   <div class="cv-item__title">VFlow AI 视频生成 · 清华大学深圳国际研究生院</div>
-  <div class="cv-item__date">2025.12 – 至今</div>
+  <div class="cv-item__date">2025.12 – 2026.06</div>
 </div>
 <div class="cv-item__meta">算法实习 · 袁春教授横向项目</div>
 
@@ -144,7 +144,6 @@ Zile Wang, Hao Yu, **Jiabo Zhan**, Chun Yuan
 - **国家奖学金**：2022–2023、2023–2024 学年。
 - 连续三个学年获评北京航空航天大学**校级三好学生**，并获**校级优秀团员**。
 - **三星奖学金**（2024–2025 学年）；全国大学生数学竞赛**北京市一等奖**。
-- 第三十五届北航“冯如杯”主赛道制作组**三等奖**：基于 SAMUS、Electron 与 Python 的智能胰腺诊断系统。
 
 <span class='anchor' id='skills'></span>
 
