@@ -22,7 +22,11 @@ author_profile: true
 
 我的论文目前已获得 <a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><strong><span id='total_cit'>14</span> 次 Google Scholar 引用</strong></a>，引用数据每日自动更新。<a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar 引用数"></a>
 
-联系方式：**邮箱：`jiabozhan0618@gmail.com`** · **微信：`_Marsquakes`**
+<div class="contact-block">
+  <div class="contact-block__title">联系方式</div>
+  <div><strong>邮箱：</strong><a href="mailto:jiabozhan0618@gmail.com">jiabozhan0618@gmail.com</a></div>
+  <div><strong>微信：</strong><code>_Marsquakes</code></div>
+</div>
 
 <span class='anchor' id='news'></span>
 

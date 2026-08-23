@@ -25,7 +25,11 @@ My research interests include **computer vision**, **multimodal large language m
 
 My publications have received <a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><strong><span id='total_cit'>14</span> Google Scholar citations</strong></a>. Citation counts are updated automatically every day. <a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
 
-Contact: **Email: `jiabozhan0618@gmail.com`** · **WeChat: `_Marsquakes`**
+<div class="contact-block">
+  <div class="contact-block__title">Contact</div>
+  <div><strong>Email:</strong> <a href="mailto:jiabozhan0618@gmail.com">jiabozhan0618@gmail.com</a></div>
+  <div><strong>WeChat:</strong> <code>_Marsquakes</code></div>
+</div>
 
 <span class='anchor' id='news'></span>
 

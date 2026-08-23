@@ -124,6 +124,19 @@ h1:before, .anchor:before {
     padding: .4rem .75rem !important;
 }
 
+.contact-block {
+    margin: 0 0 1.5em;
+
+    > div + div {
+        margin-top: .2em;
+    }
+}
+
+.contact-block__title {
+    font-weight: 700;
+    margin-bottom: .35em;
+}
+
 .cv-item {
     border-left: 3px solid mix(#fff, $primary-color, 60%);
     margin: 0 0 1.5em;
