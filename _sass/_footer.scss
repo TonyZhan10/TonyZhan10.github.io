@@ -4,13 +4,13 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
   clear: both;
-  position: relative;
-  margin-top: 4em;
+  float: none;
+  margin-top: 0;
+  position: static;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -55,7 +55,8 @@
   font-size: $type-size-7;
 }
 
-.page__footer-note {
+.page__footer-note,
+.page__footer-credit {
   font-family: $global-font-family;
   font-size: $type-size-7;
   margin-top: 0.35em;
