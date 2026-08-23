@@ -42,21 +42,6 @@ author_profile: true
 
 # 📝 论文
 
-<div class='paper-box paper-box--text-only'>
-<div class='paper-box-text' markdown="1">
-
-[PaDoc: Layout-Grounded Parallel Decoding for Document Parsing](https://arxiv.org/abs/2608.06146)
-
-Hao Yu<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
-
-<sup>*</sup> 共同一作。
-
-[**论文**](https://arxiv.org/abs/2608.06146) / [**PDF**](https://arxiv.org/pdf/2608.06146) / [**代码**](https://github.com/Longin-Yu/Padoc) / [**模型**](https://huggingface.co/Longin-Yu/PaDoc) / [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&user=jGxsEcoAAAAJ&citation_for_view=jGxsEcoAAAAJ:2osOgNQ5qMEC)
-
-- 提出布局驱动的文档解析器，让各区域内容从共享的整页前缀并行分支；相较同骨干串行解码方案，吞吐提升 67.4–118%，同时保持领先的解析质量。
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='{{ "/images/omnialpha.jpg" | relative_url }}' alt="OmniAlpha 示例" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,6 +55,21 @@ Hao Yu<sup>*</sup>, Jinglin Wang<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Rui Ch
 
 - 统一处理图像抠图、目标移除、图层分解和 RGBA 生成等透明感知生成与编辑任务。
 - **个人贡献：**参与多任务数据 schema 与评测流程设计、训练数据构建与治理，以及多任务 SFT 和 GRPO 风格强化学习后训练；在图层分解任务上实现 RGB L1 相对降低 9.07%。
+</div>
+</div>
+
+<div class='paper-box paper-box--text-only'>
+<div class='paper-box-text' markdown="1">
+
+[PaDoc: Layout-Grounded Parallel Decoding for Document Parsing](https://arxiv.org/abs/2608.06146)
+
+Hao Yu<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
+
+<sup>*</sup> 共同一作。
+
+[**论文**](https://arxiv.org/abs/2608.06146) / [**PDF**](https://arxiv.org/pdf/2608.06146) / [**代码**](https://github.com/Longin-Yu/Padoc) / [**模型**](https://huggingface.co/Longin-Yu/PaDoc) / [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&user=jGxsEcoAAAAJ&citation_for_view=jGxsEcoAAAAJ:2osOgNQ5qMEC)
+
+- 提出布局驱动的文档解析器，让各区域内容从共享的整页前缀并行分支；相较同骨干串行解码方案，吞吐提升 67.4–118%，同时保持领先的解析质量。
 </div>
 </div>
 

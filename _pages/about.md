@@ -45,21 +45,6 @@ My publications have received <a href='https://scholar.google.com/citations?user
 
 # 📝 Publications
 
-<div class='paper-box paper-box--text-only'>
-<div class='paper-box-text' markdown="1">
-
-[PaDoc: Layout-Grounded Parallel Decoding for Document Parsing](https://arxiv.org/abs/2608.06146)
-
-Hao Yu<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
-
-<sup>*</sup> Equal contribution.
-
-[**Paper**](https://arxiv.org/abs/2608.06146) / [**PDF**](https://arxiv.org/pdf/2608.06146) / [**Code**](https://github.com/Longin-Yu/Padoc) / [**Model**](https://huggingface.co/Longin-Yu/PaDoc) / [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&user=jGxsEcoAAAAJ&citation_for_view=jGxsEcoAAAAJ:2osOgNQ5qMEC)
-
-- A layout-grounded parser that branches regional content from shared full-page prefixes, improving throughput by 67.4–118% over same-backbone sequential decoding while retaining top-tier parsing quality.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='{{ "/images/omnialpha.jpg" | relative_url }}' alt="OmniAlpha examples" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,6 +58,21 @@ Hao Yu<sup>*</sup>, Jinglin Wang<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Rui Ch
 
 - A unified framework for transparency-aware generation and manipulation across image matting, object removal, layer decomposition, and RGBA generation.
 - **Contribution:** Co-designed the multi-task data schema and evaluation pipeline, curated training data, and contributed to multi-task SFT and GRPO-style RL post-training; achieved a 9.07% relative reduction in RGB L1 on layer decomposition.
+</div>
+</div>
+
+<div class='paper-box paper-box--text-only'>
+<div class='paper-box-text' markdown="1">
+
+[PaDoc: Layout-Grounded Parallel Decoding for Document Parsing](https://arxiv.org/abs/2608.06146)
+
+Hao Yu<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
+
+<sup>*</sup> Equal contribution.
+
+[**Paper**](https://arxiv.org/abs/2608.06146) / [**PDF**](https://arxiv.org/pdf/2608.06146) / [**Code**](https://github.com/Longin-Yu/Padoc) / [**Model**](https://huggingface.co/Longin-Yu/PaDoc) / [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&user=jGxsEcoAAAAJ&citation_for_view=jGxsEcoAAAAJ:2osOgNQ5qMEC)
+
+- A layout-grounded parser that branches regional content from shared full-page prefixes, improving throughput by 67.4–118% over same-backbone sequential decoding while retaining top-tier parsing quality.
 </div>
 </div>
 
