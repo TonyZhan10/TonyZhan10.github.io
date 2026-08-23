@@ -42,12 +42,14 @@ author_profile: true
 
 # 📝 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='{{ "/images/padoc.png" | relative_url }}' alt="PaDoc 布局驱动并行文档解析" width="100%"></div></div>
+<div class='paper-box paper-box--text-only'>
 <div class='paper-box-text' markdown="1">
 
 [PaDoc: Layout-Grounded Parallel Decoding for Document Parsing](https://arxiv.org/abs/2608.06146)
 
-Hao Yu, **Jiabo Zhan**, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
+Hao Yu<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Kang Liu, Linnan Zhao, Dongxu Yue, Rui Chen, Jinglin Wang, Chong Sun, Chen Li, Jing Lyu, Chun Yuan
+
+<sup>*</sup> 共同一作。
 
 [**论文**](https://arxiv.org/abs/2608.06146) / [**PDF**](https://arxiv.org/pdf/2608.06146) / [**代码**](https://github.com/Longin-Yu/Padoc) / [**模型**](https://huggingface.co/Longin-Yu/PaDoc) / [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&user=jGxsEcoAAAAJ&citation_for_view=jGxsEcoAAAAJ:2osOgNQ5qMEC)
 
