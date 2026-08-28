@@ -36,7 +36,7 @@ My publications have received <a href='https://scholar.google.com/citations?user
 # 🔥 News
 
 - *2026.08*: &nbsp;PaDoc was released with open-source code and model weights.
-- *2026.08*: &nbsp;🎉 **OmniAlpha was accepted to ACM Multimedia 2026 (ACM MM 2026)!**
+- *2026.08*: &nbsp;🎉 **OmniAlpha was accepted to ACM Multimedia 2026 (ACM MM 2026) as an Oral Presentation!**
 - *2026.04*: &nbsp;OmniAlpha was substantially revised with multi-task reinforcement learning for transparency-aware generation.
 - *2025.11*: &nbsp;OmniAlpha was released with open-source code and model weights.
 - *2025.07*: &nbsp;AlphaVAE was released with open-source code, data, and models.
@@ -45,14 +45,14 @@ My publications have received <a href='https://scholar.google.com/citations?user
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='{{ "/images/omnialpha.jpg" | relative_url }}' alt="OmniAlpha examples" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><span>ACM MM 2026</span><span class="badge__oral">ORAL</span></div><img src='{{ "/images/omnialpha.jpg" | relative_url }}' alt="OmniAlpha examples" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OmniAlpha: Aligning Transparency-Aware Generation via Multi-Task Unified Reinforcement Learning](https://arxiv.org/abs/2511.20211)
 
 Hao Yu<sup>*</sup>, Jinglin Wang<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Rui Chen, Zile Wang, Huaisong Zhang, Hongyu Li, Xinrui Chen, Yongxian Wei, Chun Yuan
 
-<sup>*</sup> Equal contribution. **ACM Multimedia 2026.**
+<sup>*</sup> Equal contribution. **ACM Multimedia 2026.** <span class="oral-highlight">ORAL PRESENTATION</span>
 
 [**Paper**](https://arxiv.org/abs/2511.20211) / [**PDF**](https://arxiv.org/pdf/2511.20211) / [**Code**](https://github.com/Longin-Yu/OmniAlpha) / [**Model**](https://huggingface.co/Longin-Yu/OmniAlpha) / [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&user=jGxsEcoAAAAJ&citation_for_view=jGxsEcoAAAAJ:u-x6o8ySG0sC)
 

@@ -33,7 +33,7 @@ author_profile: true
 # 🔥 最新动态
 
 - *2026.08*: &nbsp;PaDoc 正式发布，代码与模型权重已开源。
-- *2026.08*: &nbsp;🎉 **OmniAlpha 被 ACM Multimedia 2026（ACM MM 2026）录用！**
+- *2026.08*: &nbsp;🎉 **OmniAlpha 被 ACM Multimedia 2026（ACM MM 2026）录用，并入选 Oral Presentation（口头报告）！**
 - *2026.04*: &nbsp;OmniAlpha 完成重要更新，引入面向透明感知生成的多任务强化学习。
 - *2025.11*: &nbsp;OmniAlpha 正式发布，代码与模型权重已开源。
 - *2025.07*: &nbsp;AlphaVAE 正式发布，代码、数据与模型已开源。
@@ -42,14 +42,14 @@ author_profile: true
 
 # 📝 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='{{ "/images/omnialpha.jpg" | relative_url }}' alt="OmniAlpha 示例" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><span>ACM MM 2026</span><span class="badge__oral">ORAL</span></div><img src='{{ "/images/omnialpha.jpg" | relative_url }}' alt="OmniAlpha 示例" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OmniAlpha: Aligning Transparency-Aware Generation via Multi-Task Unified Reinforcement Learning](https://arxiv.org/abs/2511.20211)
 
 Hao Yu<sup>*</sup>, Jinglin Wang<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Rui Chen, Zile Wang, Huaisong Zhang, Hongyu Li, Xinrui Chen, Yongxian Wei, Chun Yuan
 
-<sup>*</sup> 共同一作。**ACM Multimedia 2026。**
+<sup>*</sup> 共同一作。**ACM Multimedia 2026。** <span class="oral-highlight">ORAL PRESENTATION</span>
 
 [**论文**](https://arxiv.org/abs/2511.20211) / [**PDF**](https://arxiv.org/pdf/2511.20211) / [**代码**](https://github.com/Longin-Yu/OmniAlpha) / [**模型**](https://huggingface.co/Longin-Yu/OmniAlpha) / [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&user=jGxsEcoAAAAJ&citation_for_view=jGxsEcoAAAAJ:u-x6o8ySG0sC)
 
