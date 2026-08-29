@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jiabo Zhan (詹佳博)**, an incoming M.Eng. student in Computer Technology at **Tsinghua University, Shenzhen International Graduate School**, advised by Prof. Chun Yuan. I received my B.E. in Software Engineering from **Beihang University** in 2026, graduating **2nd out of 172 students (top 1.2%)** with a GPA of **3.873/4.0**.
+I am **Jiabo Zhan (詹佳博)**, an incoming M.Eng. student in Computer Technology at **Tsinghua University**, advised by Prof. Chun Yuan. I received my B.E. in Software Engineering from **Beihang University** in 2026, graduating **2nd out of 172 students (top 1.2%)** with a GPA of **3.873/4.0**.
 
 My research interests include **computer vision**, **multimodal large language models (MLLMs)**, **reinforcement learning**, **AI-generated content (AIGC)**, and **document intelligence**. My recent work focuses on transparent and layered RGBA generation, efficient document parsing, multimodal data construction, and evaluation.
 
