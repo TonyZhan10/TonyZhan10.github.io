@@ -1,0 +1,78 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "jGxsEcoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Jiabo Zhan",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jGxsEcoAAAAJ&citpid=1",
+  "affiliation": "Tsinghua University",
+  "interests": [
+    "CV",
+    "MLLM",
+    "AIGC"
+  ],
+  "email_domain": "@buaa.edu.cn",
+  "homepage": "https://github.com/TonyZhan10",
+  "citedby": 14,
+  "publications": {
+    "jGxsEcoAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alphavae: Unified end-to-end rgba image reconstruction and generation with alpha-aware representation learning",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2507.09308, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "jGxsEcoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2925810618988970025",
+      "cites_id": [
+        "2925810618988970025"
+      ]
+    },
+    "jGxsEcoAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Omnialpha: A sequence-to-sequence framework for unified multi-task rgba generation",
+        "pub_year": "2025",
+        "citation": "arXiv e-prints, arXiv: 2511.20211, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "jGxsEcoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16404757866714205825",
+      "cites_id": [
+        "16404757866714205825"
+      ]
+    },
+    "jGxsEcoAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2608.06146, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "jGxsEcoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 14,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2025": 2,
+    "2026": 12
+  },
+  "updated": "2026-09-05T11:27:40.940059+00:00"
+}
