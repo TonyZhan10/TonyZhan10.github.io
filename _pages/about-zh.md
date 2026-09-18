@@ -43,22 +43,6 @@ author_profile: true
 
 # 📝 论文
 
-<div class='paper-box paper-box--text-only'>
-<div class='paper-box-text' markdown="1">
-
-[WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing](https://arxiv.org/abs/2609.20423)
-
-Hao Yu<sup>*</sup>, Kang Liu<sup>*</sup>, Linnan Zhao<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Chong Sun, Chen Li, Jing Lyu
-
-<sup>*</sup> 共同一作。**技术报告，2026。**
-
-[**论文**](https://arxiv.org/abs/2609.20423) / [**PDF**](https://arxiv.org/pdf/2609.20423) / [**项目主页**](https://tencent.github.io/WeVisDoc/) / [**代码**](https://github.com/Tencent/WeVisDoc) / [**模型（2B）**](https://huggingface.co/Tencent/WeVisDoc-2B) / [**模型（4B）**](https://huggingface.co/Tencent/WeVisDoc-4B)
-
-- 提出两阶段数据驱动框架：先扩展文档数据覆盖，再通过残余错误诊断指导定向数据构建与训练预算分配，提升端到端文档解析的鲁棒性。
-- WeVisDoc-4B 在 OmniDocBench v1.6 上取得 **95.38** 的 Overall 分数，在 PureDocBench 三个赛道上的平均 Overall 分数为 **75.54**，在四项设置中均位列所比较的端到端解析器第一。
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><span>ACM MM 2026</span><span class="badge__oral">ORAL</span></div><img src='{{ "/images/omnialpha.jpg" | relative_url }}' alt="OmniAlpha 示例" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,6 +85,26 @@ Zile Wang, Hao Yu, **Jiabo Zhan**, Chun Yuan
 
 - 面向端到端 RGBA 图像重建与透明图像生成的 Alpha-aware VAE，并配套提出 ALPHA 评测基准。
 - **个人贡献：**完成 8,124 张高质量 RGBA 训练样本的收集、清洗与治理，并参与 benchmark、评测代码和 LoRA 数据迭代流程设计。
+</div>
+</div>
+
+<span class='anchor' id='technical-reports'></span>
+
+# 技术报告 {#technical-reports-heading}
+
+<div class='paper-box'><div class='paper-box-image'><div><a href="https://tencent.github.io/WeVisDoc/"><img src='{{ "/images/wevisdoc.png" | relative_url }}' alt="WeVisDoc-4B 在 OmniDocBench 与 PureDocBench 上的评测结果" width="1224" height="626" style="width: 100%;" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing](https://arxiv.org/abs/2609.20423)
+
+Hao Yu<sup>*</sup>, Kang Liu<sup>*</sup>, Linnan Zhao<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Chong Sun, Chen Li, Jing Lyu
+
+<sup>*</sup> 共同一作。**技术报告，2026。**
+
+[**报告**](https://arxiv.org/abs/2609.20423) / [**PDF**](https://arxiv.org/pdf/2609.20423) / [**项目主页**](https://tencent.github.io/WeVisDoc/) / [**代码**](https://github.com/Tencent/WeVisDoc) / [**模型（2B）**](https://huggingface.co/Tencent/WeVisDoc-2B) / [**模型（4B）**](https://huggingface.co/Tencent/WeVisDoc-4B)
+
+- 提出两阶段数据驱动框架：先扩展文档数据覆盖，再通过残余错误诊断指导定向数据构建与训练预算分配，提升端到端文档解析的鲁棒性。
+- WeVisDoc-4B 在 OmniDocBench v1.6 上取得 **95.38** 的 Overall 分数，在 PureDocBench 三个赛道上的平均 Overall 分数为 **75.54**，在四项设置中均位列所比较的端到端解析器第一。
 </div>
 </div>
 

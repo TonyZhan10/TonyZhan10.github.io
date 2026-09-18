@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#publications"
 
+  - title: "Technical Reports"
+    url: "/#technical-reports"
+
   - title: "Education"
     url: "/#education"
 
@@ -27,6 +30,9 @@ main_zh:
 
   - title: "论文"
     url: "/zh/#publications"
+
+  - title: "技术报告"
+    url: "/zh/#technical-reports"
 
   - title: "教育背景"
     url: "/zh/#education"
