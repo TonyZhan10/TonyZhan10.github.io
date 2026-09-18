@@ -32,6 +32,7 @@ author_profile: true
 
 # 🔥 最新动态
 
+- *2026.09*: &nbsp;[WeVisDoc](https://tencent.github.io/WeVisDoc/) 技术报告发布，面向鲁棒端到端文档解析，代码与 2B/4B 模型权重已开源。
 - *2026.08*: &nbsp;PaDoc 正式发布，代码与模型权重已开源。
 - *2026.08*: &nbsp;🎉 **OmniAlpha 被 ACM Multimedia 2026（ACM MM 2026）录用，并入选 Oral Presentation（口头报告）！**
 - *2026.04*: &nbsp;OmniAlpha 完成重要更新，引入面向透明感知生成的多任务强化学习。
@@ -41,6 +42,22 @@ author_profile: true
 <span class='anchor' id='publications'></span>
 
 # 📝 论文
+
+<div class='paper-box paper-box--text-only'>
+<div class='paper-box-text' markdown="1">
+
+[WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing](https://arxiv.org/abs/2609.20423)
+
+Hao Yu<sup>*</sup>, Kang Liu<sup>*</sup>, Linnan Zhao<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Chong Sun, Chen Li, Jing Lyu
+
+<sup>*</sup> 共同一作。**技术报告，2026。**
+
+[**论文**](https://arxiv.org/abs/2609.20423) / [**PDF**](https://arxiv.org/pdf/2609.20423) / [**项目主页**](https://tencent.github.io/WeVisDoc/) / [**代码**](https://github.com/Tencent/WeVisDoc) / [**模型（2B）**](https://huggingface.co/Tencent/WeVisDoc-2B) / [**模型（4B）**](https://huggingface.co/Tencent/WeVisDoc-4B)
+
+- 提出两阶段数据驱动框架：先扩展文档数据覆盖，再通过残余错误诊断指导定向数据构建与训练预算分配，提升端到端文档解析的鲁棒性。
+- WeVisDoc-4B 在 OmniDocBench v1.6 上取得 **95.38** 的 Overall 分数，在 PureDocBench 三个赛道上的平均 Overall 分数为 **75.54**，在四项设置中均位列所比较的端到端解析器第一。
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><span>ACM MM 2026</span><span class="badge__oral">ORAL</span></div><img src='{{ "/images/omnialpha.jpg" | relative_url }}' alt="OmniAlpha 示例" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -35,6 +35,7 @@ My publications have received <a href='https://scholar.google.com/citations?user
 
 # 🔥 News
 
+- *2026.09*: &nbsp;[WeVisDoc](https://tencent.github.io/WeVisDoc/) was released as a technical report on robust end-to-end document parsing, with open-source code and 2B/4B model weights.
 - *2026.08*: &nbsp;PaDoc was released with open-source code and model weights.
 - *2026.08*: &nbsp;🎉 **OmniAlpha was accepted to ACM Multimedia 2026 (ACM MM 2026) as an Oral Presentation!**
 - *2026.04*: &nbsp;OmniAlpha was substantially revised with multi-task reinforcement learning for transparency-aware generation.
@@ -44,6 +45,22 @@ My publications have received <a href='https://scholar.google.com/citations?user
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
+
+<div class='paper-box paper-box--text-only'>
+<div class='paper-box-text' markdown="1">
+
+[WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing](https://arxiv.org/abs/2609.20423)
+
+Hao Yu<sup>*</sup>, Kang Liu<sup>*</sup>, Linnan Zhao<sup>*</sup>, **Jiabo Zhan**<sup>*</sup>, Chong Sun, Chen Li, Jing Lyu
+
+<sup>*</sup> Equal contribution (co-first authors). **Technical Report, 2026.**
+
+[**Paper**](https://arxiv.org/abs/2609.20423) / [**PDF**](https://arxiv.org/pdf/2609.20423) / [**Project**](https://tencent.github.io/WeVisDoc/) / [**Code**](https://github.com/Tencent/WeVisDoc) / [**Model (2B)**](https://huggingface.co/Tencent/WeVisDoc-2B) / [**Model (4B)**](https://huggingface.co/Tencent/WeVisDoc-4B)
+
+- A two-stage data-centric framework that expands document coverage, then uses residual-error diagnostics to guide targeted data construction and training-budget allocation for robust end-to-end parsing.
+- WeVisDoc-4B achieves an Overall score of **95.38** on OmniDocBench v1.6 and a mean Overall score of **75.54** across the three PureDocBench tracks, ranking first among the compared end-to-end parsers in all four settings.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><span>ACM MM 2026</span><span class="badge__oral">ORAL</span></div><img src='{{ "/images/omnialpha.jpg" | relative_url }}' alt="OmniAlpha examples" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
