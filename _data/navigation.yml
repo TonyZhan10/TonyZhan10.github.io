@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Publications"
-    url: "/#publications"
-
   - title: "Technical Reports"
     url: "/#technical-reports"
+
+  - title: "Publications"
+    url: "/#publications"
 
   - title: "Education"
     url: "/#education"
@@ -28,11 +28,11 @@ main_zh:
   - title: "动态"
     url: "/zh/#news"
 
-  - title: "论文"
-    url: "/zh/#publications"
-
   - title: "技术报告"
     url: "/zh/#technical-reports"
+
+  - title: "论文"
+    url: "/zh/#publications"
 
   - title: "教育背景"
     url: "/zh/#education"
