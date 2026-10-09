@@ -20,7 +20,7 @@ author_profile: true
 
 我的研究兴趣包括**计算机视觉**、**多模态大模型（MLLM）**、**强化学习**、**生成式人工智能（AIGC）**和**文档智能**。近期工作主要围绕透明及分层 RGBA 图像生成、高效文档解析、多模态数据构建与评测展开。
 
-我的论文目前已获得 <a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><strong><span id='total_cit'>14</span> 次 Google Scholar 引用</strong></a>，引用数据每日自动更新。<a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar 引用数"></a>
+<a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar 引用数"></a>
 
 <div class="contact-block">
   <div class="contact-block__title">联系方式</div>

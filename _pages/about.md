@@ -23,7 +23,7 @@ I am **Jiabo Zhan (詹佳博)**, an incoming M.Eng. student in Computer Technolo
 
 My research interests include **computer vision**, **multimodal large language models (MLLMs)**, **reinforcement learning**, **AI-generated content (AIGC)**, and **document intelligence**. My recent work focuses on transparent and layered RGBA generation, efficient document parsing, multimodal data construction, and evaluation.
 
-My publications have received <a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><strong><span id='total_cit'>14</span> Google Scholar citations</strong></a>. Citation counts are updated automatically every day. <a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
+<a href='https://scholar.google.com/citations?user=jGxsEcoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
 
 <div class="contact-block">
   <div class="contact-block__title">Contact</div>
