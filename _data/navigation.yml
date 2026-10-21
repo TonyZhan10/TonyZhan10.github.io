@@ -15,7 +15,7 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "Experience"
+  - title: "Internships"
     url: "/#experience"
 
   - title: "Honors"
@@ -37,7 +37,7 @@ main_zh:
   - title: "教育背景"
     url: "/zh/#education"
 
-  - title: "经历"
+  - title: "实习经历"
     url: "/zh/#experience"
 
   - title: "荣誉"

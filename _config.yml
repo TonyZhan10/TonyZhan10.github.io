@@ -25,10 +25,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiabo Zhan"
   avatar           : "images/jiabo-zhan.jpg"
-  bio              : "CV · MLLM · RL · AIGC"
-  bio_zh           : "计算机视觉 · 多模态大模型 · 强化学习 · 生成式 AI"
-  location         : "Beijing, China"
-  location_zh      : "中国，北京"
+  bio              : "CV · MLLM · RL"
+  bio_zh           : "计算机视觉 · 多模态大模型 · 强化学习"
+  location         : "Shenzhen, China"
+  location_zh      : "中国，深圳"
   employer         : "Tsinghua University"
   employer_zh      : "清华大学"
   pubmed           : 
