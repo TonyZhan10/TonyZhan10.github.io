@@ -1,0 +1,123 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "jGxsEcoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Jiabo Zhan",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jGxsEcoAAAAJ&citpid=2",
+  "affiliation": "Tsinghua University",
+  "organization": 15442380624744264287,
+  "interests": [
+    "CV",
+    "MLLM",
+    "AIGC"
+  ],
+  "email_domain": "@mails.tsinghua.edu.cn",
+  "homepage": "https://github.com/TonyZhan10",
+  "citedby": 23,
+  "publications": {
+    "jGxsEcoAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alphavae: Unified end-to-end rgba image reconstruction and generation with alpha-aware representation learning",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2507.09308, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "jGxsEcoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2925810618988970025",
+      "cites_id": [
+        "2925810618988970025"
+      ]
+    },
+    "jGxsEcoAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Omnialpha: A sequence-to-sequence framework for unified multi-task rgba generation",
+        "pub_year": "2025",
+        "citation": "arXiv e-prints, arXiv: 2511.20211, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "jGxsEcoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16404757866714205825",
+      "cites_id": [
+        "16404757866714205825"
+      ]
+    },
+    "jGxsEcoAAAAJ:IjCSPb-OGe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OmniAlpha: Aligning Transparency-Aware Generation via Multi-Task Unified Reinforcement Learning",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2511.20211, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "jGxsEcoAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4559108424263663972",
+      "cites_id": [
+        "4559108424263663972"
+      ]
+    },
+    "jGxsEcoAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2608.06146, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "jGxsEcoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8140201768351508955",
+      "cites_id": [
+        "8140201768351508955"
+      ]
+    },
+    "jGxsEcoAAAAJ:UeHWp8X0CEIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+        "pub_year": "2026",
+        "citation": "Technical Report, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "jGxsEcoAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    "jGxsEcoAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OCR-EDR: Rendering-Aware Diagnosis and Repair for Closed-Loop OCR Improvement",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2609.03445, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "jGxsEcoAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 23,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2025": 2,
+    "2026": 21
+  },
+  "updated": "2026-10-28T14:39:33.035442+00:00"
+}
